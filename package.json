@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/akash-singh8/aesthetic-color/issues"
   },
-  "homepage": "https://github.com/akash-singh8/aesthetic-color#readme"
+  "homepage": "https://github.com/akash-singh8/aesthetic-color#readme",
+  "keywords": [
+    "aesthetic",
+    "colors",
+    "design",
+    "themes"
+  ]
 }
